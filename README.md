@@ -1,2 +1,2 @@
-# langchain_study
+# my_langchain
 学习langchain langgraph
